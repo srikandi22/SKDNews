@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country">
+        <item>ID;Indonesia</item>
+        <item>US;Amerika Serikat</item>
+    </string-array>
+
+    <string-array name="language">
+        <item>ID;Indonesia</item>
+        <item>EN;English</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>business;Bisnis</item>
+        <item>entertainment;Hiburan</item>
+        <item>general;Umum</item>
+        <item>health;Kesehatan</item>
+        <item>science;Ilmu Pengetahuan</item>
+        <item>sports;Olahraga</item>
+        <item>technology;Teknologi</item>
+    </string-array>
+</resources>

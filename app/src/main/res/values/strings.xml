@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SKDNews</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_archive">Archive</string>
+    <string name="title_about">About</string>
+
+    <string name="apikey">f4dd5deed84941a4baf0a327448d8e85</string>
+
+    <string name="category">business</string>
+    <string name="country">ID</string>
+    <string name="language">ID</string>
+
+    <string name="action_settings">Setting</string>
+    <string name="action_update">Update</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SKD News</string>
+    <string name="nav_header_subtitle">\u00A9 by SKDNews Team - 2020</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="input_apikey">API Key</string>
+    <string name="input_country">Pilih Negara</string>
+    <string name="input_language">Pilih Bahasa</string>
+    <string name="input_category">Pilih Kategory</string>
+</resources>
